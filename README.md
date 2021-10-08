@@ -2,7 +2,7 @@
 
 Convert xml file to txt
 
-Run code in ubuntu
+Run code in Ubuntu
 
 1. Run make_txt.py
   
