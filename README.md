@@ -10,4 +10,4 @@ Run code in ubuntu
   
 2. Run voc2txt.py
 
-      python3 voc2txt.py
+      python3 Voc2txt.py
